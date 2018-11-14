@@ -17,7 +17,7 @@
     	
      	<activemq.version>5.15.7</activemq.version>
      	<username>vimal7225sA</username>
-		<password>${pwd}</password>
+		<password></password>
 	</properties>
 
 	<build>
